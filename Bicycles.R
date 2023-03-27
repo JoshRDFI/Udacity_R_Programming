@@ -1,18 +1,11 @@
 # Summary:
-# In this project, the main questions will be explored on each 
-# of the 3 data sets and additional comparative questions will 
-# be explored against a merged data set. 
+# In this project, 3 questions will be explored on a merge 
+# of the 3 data sets.
 # The questions are:
-# 1) What are the most popular bike rental days and times in each
-#    city? (day of week and hour of the day)
-# 2) What is the most common trip based on start and end stations
-#    in each city?
-# 3) What is the average trip time in each city? (start and end 
+# 1) 1) What are the most popular bike rental days in each city?
+# 2) What is the average daily trip time in each city? (start and end 
 #    times of rentals)
-# 4) Merged data question: In NYC and Chicago, which gender rents more
-#    often?
-# 5) Merged data question: In all 3 cities, what is the comparison of 
-#    subscribers to customers?
+# 3) In NYC and Chicago, which gender rents more often?
 
 # ---------------
 # Additional learning resources used: 
